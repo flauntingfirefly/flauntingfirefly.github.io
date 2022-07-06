@@ -1,13 +1,13 @@
 BaseUrl= ""
 LanguageCode= "en-GB"
-Title= "Flaunting Flamingo Group"
+Title= "Flaunting Firefly Group"
 paginate = 5
 Copyright = ""
 canonifyurls = true
 theme="hugo-theme-air"
 
 [author]
-  name = "Flaunting Flamingo Group"
+  name = "Flaunting Firefly Group"
 
 [permalinks]
     post = "/posts/:filename"
@@ -15,7 +15,7 @@ theme="hugo-theme-air"
 [params]
   description = "Lighting up your world with one computer at a time!"
   cover = "images/user.jpg"
-  author = "The Flaunting Flamingo"
+  author = "The Flaunting Firefly"
   authorlocation = ""
   bio= "my bio"
   logo = "images/user.png"
